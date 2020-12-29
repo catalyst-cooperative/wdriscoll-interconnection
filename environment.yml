@@ -1,4 +1,4 @@
 dependencies:
   - pandas
   - jupyterlab
-  - xlrd
+  - xlrd<2.0
